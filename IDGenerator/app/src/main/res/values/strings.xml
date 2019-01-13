@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ID Generator</string>
+    <string name="hint_id">ID here</string>
+    <string name="submit">Submit</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sacitizen">SA citizen</string>
+    <string name="sapr">Permanent Resident</string>
+</resources>
