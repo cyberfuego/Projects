@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothEnabler/Disabler</string>
+    <string name="enable_disable">Enable/Disable</string>
+
+    <string name="makediscoverable">MakeDiscoverable</string>
+    <string name="discoverdevice">DiscoverDevice</string>
+    <string name="textview">textview</string>
+
+
+</resources>
