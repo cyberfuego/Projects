@@ -1,7 +1,9 @@
-**Bluetooth Connection Application**
+**Bluetooth Chat Application**
 
-Bluetooth Connection Application is an android Application which can connect any
-Bluetooth device with your phone. I have used Android Bluetooth API in this
+Bluetooth Chat Application is an android Application which can bond two android
+phones
+
+and send messages back and forth. Bluetooth android is been used in this
 project.
 
 You can read about android API and how to use them here :
