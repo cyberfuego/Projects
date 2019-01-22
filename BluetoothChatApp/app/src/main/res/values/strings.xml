@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BluetoothChatApp</string>
+    <string name="enable_disable">Enable/Disable</string>
+
+    <string name="makediscoverable">MakeDiscoverable</string>
+    <string name="discoverdevice">DiscoverDevice</string>
+    <string name="textview">textview</string>
+    <string name="send">SEND</string>
+    <string name="enter_text_here">Enter Text Here</string>
+
+
+</resources>
+
