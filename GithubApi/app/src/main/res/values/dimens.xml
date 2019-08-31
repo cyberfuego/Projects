@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listHeaderSize">20dp</dimen>
+    <dimen name="listContentSize">15dp</dimen>
+</resources>
